@@ -1,5 +1,5 @@
 # sizeTable
-WooCommerce plugin
+Wordpress / WooCommerce plugin
 
 Plugin that make sizes table by CSV file
 
